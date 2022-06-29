@@ -1,4 +1,148 @@
-.App {
+/* <h2>Allah Is the Greatest</h2> */
+body{
+  background-color: #F2F7FF;
+}
+.dash h2{
+  font-size: 1.4rem;
+  color:#0E918C;
+  font-weight: 700;
+}
+.applicant img{
+  height: 90px;
+  width: 90px;
+  display: block;
+  margin: auto;
+}
+.applicant .card{
+  box-shadow: 2px 3px 5px rgba(14, 145, 140, 0.3);
+  border-radius: 8px;
+}
+
+.applicant .card-body {
+  text-align: center;
+}
+.applicant .card-body h5{
+  color:#0E918C;
+}
+.applicant .card-body p{
+  font-size: .8rem;
+}
+
+.case .card{
+    box-shadow: 2px 3px 5px rgba(14, 145, 140, 0.3);
+    border-radius: 8px;
+}
+
+.case h5{
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+.case img{
+  float: right;
+}
+
+.hearing h5{
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+.hearing h2{
+  font-size: 3.2rem;
+  font-weight: 700;
+}
+.hearing img{
+  float: right;
+}
+.hearing .card{
+  box-shadow: 2px 3px 5px rgba(14, 145, 140, 0.3);
+  border-radius: 8px;
+}
+
+span img{
+  float: right; 
+}
+.bar img{
+  display: block;
+  margin: auto;
+}
+.revoke h5{
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+.revoke h2{
+  font-size: 2.2rem;
+  font-weight: 700;
+}
+
+.revoke .card{
+  box-shadow: 2px 3px 5px rgba(14, 145, 140, 0.3);
+  border-radius: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +179,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
