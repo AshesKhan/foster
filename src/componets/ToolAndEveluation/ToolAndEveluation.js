@@ -10,16 +10,25 @@ import Sonnet from "react-bootstrap/ToggleButton";
 function ToolAndEveluation() {
   const toolone = [
     {
-      name: "Ali",
+      name: "Active Case Documents",
     },
     {
-      name: "salam",
+      name: "Panel Actions/Comments",
     },
     {
-      name: "salam",
+      name: "Panel Agenda",
     },
     {
-      name: "salam",
+      name: "Panel Minutes - Administrator",
+    },
+    {
+      name: "Panel Minutes - Chair",
+    },
+    {
+      name: "Panel Checklist",
+    },
+    {
+      name: "Panel Outcome",
     },
   ];
   return (
